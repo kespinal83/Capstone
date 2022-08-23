@@ -198,5 +198,100 @@
   "skills": [
     "Javascript"
   ]
+},
+{
+  "id": 11,
+  "name": "Robotics TL Item 1",
+  "category": "Education",
+  "placeName": "Industry",
+  "country": "France",
+  "startDate": "2017-09",
+  "endDate": "2017-07",
+  "description":["The standard chunk of Lorem Ipsum used since the 1500s is",
+  " reproduced below for those interested. Sections 1.10.32 and 1.10.33 from",
+   "by Cicero are also reproduced in their exact original form, accompanied",
+   "by English versions from the 1914 translation by H. Rackham."],
+  "skills": [
+    "english",
+    "japanese",
+    "law",
+    "economics"
+  ]
+},
+{
+  "id": 12,
+  "name": "Robotics TL Item 2",
+  "category": "Education",
+  "placeName": "Nagoya University of Foreign Studies",
+  "country": "Japan",
+  "startDate": "2018-09",
+  "endDate": "2018-07",
+  "description": ["Japanese language classes JLPT N3, JLPT N2",
+  "Tourism & Hospitality",
+  "Economy",
+  "British law",
+  "Sociology"],
+  "skills": [
+    "english",
+    "japanese",
+    "law",
+    "economics",
+    "sociology",
+    "tourism industry"
+  ]
+},
+{
+  "id": 13,
+  "name": "Robotics TL Item 3",
+  "category": "Education",
+  "placeName": "Université de Grenoble",
+  "country": "France",
+  "startDate": "2020-09",
+  "endDate": "2020-07",
+  "description": ["Algorithms",
+  "Java",
+  "Web Dev",
+  "Systems & Networks",
+  "DB (SQL)",
+  "HCI",
+  "AI"],
+  "skills": [
+    "java",
+    "algorithms",
+    "javascript",
+    "php",
+    ".NET",
+    "SQL"
+  ]
+},
+{
+  "id": 14,
+  "name": "Robotics TL Item 4",
+  "category": "Work",
+  "placeName": "XX Company",
+  "country": "Japan",
+  "startDate": "2022-02",
+  "endDate": "2022-07",
+  "description": ["Web project planning",
+  "Budget prevision",
+  "Team and deadlines management",
+  "HTML",
+  "CSS",
+  "SCSS",
+  "Sass",
+  "Gulp",
+  "jQuery",
+  "GitLab",
+  "Drupal(7)",
+  "Events & Talks : CMS Summer Festival Osaka, Start Up Week End Nagahama Shiga, Drupal Cafe, Code for Shiga"],
+  "skills": [
+    "html",
+    "css",
+    "scss",
+    "javascript",
+    "jQuery",
+    "php",
+    "Drupal"
+  ]
 }
 ]
